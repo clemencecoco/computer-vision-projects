@@ -1,23 +1,21 @@
 # Computer Vision Projects
 
-A collection of computer vision course projects covering
-visual geometry, face recognition, semantic segmentation,
-and object detection.
+This repository presents a curated collection of computer vision projects,
+focusing on motion estimation, recognition, and dense prediction.
 
 ## Projects
-
-- **Monocular Visual Odometry and SfM**
-  - Feature-based VO and trajectory estimation  
-  - [Report](visual-odometry-sfm/report.pdf)
+- **Monocular Visual Odometry and Optical Flow**
+  - Feature-based VO, SIFT, SPyNet, Lucas-Kanade
+  - [View Project](visual-odometry-optical-flow/)
 
 - **Face Recognition with Metric Learning**
-  - SphereFace and CosFace on LFW  
-  - [Report](face-recognition-metric-learning/report.pdf)
+  - Embedding learning and evaluation
+  - [View Project](face-recognition-metric-learning/)
 
-- **Semantic Segmentation with UNet Variants**
-  - UNet, dilation, and pyramid pooling  
-  - [Report](semantic-segmentation/report.pdf)
+- **Semantic Segmentation**
+  - CNN-based dense prediction models
+  - [View Project](semantic-segmentation/)
 
-- **Object Detection with SSD**
-  - Detection accuracy and speed analysis  
-  - [Report](object-detection/report.pdf)
+- **Object Detection**
+  - Detection pipelines and evaluation
+  - [View Project](object-detection/)
