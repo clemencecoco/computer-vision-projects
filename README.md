@@ -7,7 +7,7 @@ experimental analysis, and performance evaluation.
 ## Projects
 
 - **Monocular Visual Odometry and SfM**
-  - Featured motion estimation and trajectory analysis(VO, SIFT, SPyNet, Lucas-Kanade)
+  - Featured motion estimation and trajectory analysis (VO, SIFT, SPyNet, Lucas-Kanade)
   - [View Project](visual-odometry-sfm/)
 
 - **Face Recognition with Metric Learning**
