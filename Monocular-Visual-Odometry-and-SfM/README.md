@@ -12,7 +12,7 @@ under viewpoint and illumination changes, and studies embedding-based image retr
 
 | Image A | Image B |
 |--------|--------|
-| ![](pytorch-superpoint/images/superpoint_matching1.png) | ![](pytorch-superpoint/images/magicpoint_sample5.png) |
+| ![](pytorch-superpoint/images/superpoint_matching1.png.png) | ![](pytorch-superpoint/images/magicpoint_sample5.png) |
 
 [Project Report (PDF)](report1.pdf)
 
