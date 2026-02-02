@@ -2,7 +2,7 @@
 
 This directory contains SuperPoint using Pytorch for local feature detection and matching experiments.
 
-The codebase is adapted from the CSE152-Intro to Comp Vision and the
+The codebase is adapted from the CSE152 - Intro to Comp. Vision and the
 original SuperPoint work by DeTone et al. It is used here as a feature
 extraction and matching tool, not as a training framework.
 
