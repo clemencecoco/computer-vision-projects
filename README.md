@@ -8,7 +8,8 @@ experimental analysis, and performance evaluation.
 
 - **Monocular Visual Odometry and SfM**
   - Featured motion estimation and trajectory analysis (VO, SIFT, SPyNet, Lucas-Kanade)
-  - [View Project](face-recognition-metric-learning/)
+  - [View Project](Monocular-Visual-Odometry-and-SfM/)
+
 
 - **Face Recognition with Metric Learning**
   - SphereFace and CosFace evaluation on LFW
