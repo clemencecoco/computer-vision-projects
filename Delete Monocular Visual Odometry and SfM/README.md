@@ -10,5 +10,5 @@ under viewpoint and illumination changes, and studies embedding-based image retr
 - Trained an embedding model for image retrieval on FashionMNIST
 - Evaluated retrieval performance using precision@1
 
-📄 [Project Report (PDF)](report.pdf)
+[Project Report (PDF)](report1.pdf)
 
