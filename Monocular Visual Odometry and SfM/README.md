@@ -1,13 +1,14 @@
 # Monocular Visual Odometry and SfM
 
-This project explores monocular visual odometry and structure-from-motion
-using classical and learning-based methods on driving sequences.
+This project evaluates local feature detection, description, and matching methods
+under viewpoint and illumination changes, and studies embedding-based image retrieval.
 
 ## Methods
-- Feature-based monocular visual odometry
-- SIFT-based matching
-- SPyNet optical flow
-- Lucas-Kanade optical flow (single-scale and multiscale)
+- Compared Harris, SIFT, MagicPoint, and SuperPoint
+- Evaluated repeatability, localization error, matching score, and NN mAP
+- Applied homographic adaptation for improved robustness
+- Trained an embedding model for image retrieval on FashionMNIST
+- Evaluated retrieval performance using precision@1
 
 📄 [Project Report (PDF)](report.pdf)
 
