@@ -14,6 +14,5 @@ under viewpoint and illumination changes, and studies embedding-based image retr
 |--------|--------|
 | ![](pytorch-superpoint/images/superpoint_matching1.png) | ![](pytorch-superpoint/images/magicpoint_sample5.png) |
 
-Delete Monocular Visual Odometry and SfM/pytorch-superpoint/images/superpoint_matching1.png.png
 [Project Report (PDF)](report1.pdf)
 
