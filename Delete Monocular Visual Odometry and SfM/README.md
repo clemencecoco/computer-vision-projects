@@ -10,10 +10,10 @@ under viewpoint and illumination changes, and studies embedding-based image retr
 - Trained an embedding model for image retrieval on FashionMNIST
 - Evaluated retrieval performance using precision@1
 
-| Sample 2 | Sample 5 |
-|---------|----------|
-| ![](pytorch-superpoint/images/magicpoint_sample2.png) | ![](images/magicpoint_sample5.png) |
-Delete Monocular Visual Odometry and SfM/pytorch-superpoint/images
+| Image A | Image B |
+|--------|--------|
+| ![](pytorch-superpoint/images/magicpoint_sample2.png) | ![](pytorch-superpoint/images/magicpoint_sample5.png) |
+
 
 [Project Report (PDF)](report1.pdf)
 
