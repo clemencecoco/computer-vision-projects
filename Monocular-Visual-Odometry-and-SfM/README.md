@@ -16,5 +16,10 @@ MagicPoint
 |--------|--------|
 | ![](pytorch-superpoint/images/magicpoint_sample2.png.png) | ![](pytorch-superpoint/images/magicpoint_sample5.png.png) |
 
+Harris
+| Image A | Image B |
+|--------|--------|
+| ![](pytorch-superpoint/images/harris_sample2.png.png) | ![](pytorch-superpoint/images/harris_sample5.png.png) |
+
 [Project Report (PDF)](report1.pdf)
 
