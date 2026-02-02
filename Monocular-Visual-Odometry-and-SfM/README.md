@@ -23,7 +23,10 @@ Harris
 
 ### SuperPoint Matching on My Own Image Pair
 
-![](pytorch-superpoint/images/superpoint_matching1.png.png) | ![](pytorch-superpoint/images/superpoint_matching2.png.png)
+| Pair 1 | Pair 2 |
+|-------------|--------------|
+| ![](pytorch-superpoint/images/superpoint_matching1.png) | ![](pytorch-superpoint/images/superpoint_matching2.png) |
+
 
 [Project Report (PDF)](report1.pdf)
 
