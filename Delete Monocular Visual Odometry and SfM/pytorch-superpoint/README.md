@@ -1,9 +1,8 @@
 # pytorch-superpoint
 
-This directory contains a PyTorch implementation of SuperPoint used in HW1
-for local feature detection and matching experiments.
+It contains the repo SuperPoint using Pytorch for local feature detection and matching experiments.
 
-The codebase is adapted from the course-provided implementation and the
+The codebase is adapted from the course implementation and the
 original SuperPoint work by DeTone et al. It is used here as a feature
 extraction and matching tool, not as a training framework.
 
