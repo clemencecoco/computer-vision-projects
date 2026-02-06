@@ -1,0 +1,33 @@
+# Datasets
+*.zip
+*.tar.gz
+datasets/
+data/
+
+# Model weights & checkpoints
+*.pth
+*.pt
+*.ckpt
+checkpoints/
+weights/
+
+# Logs & runs
+logs/
+runs/
+wandb/
+*.log
+
+# Results (keep only curated figures)
+results/*/raw/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.ipynb_checkpoints/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
